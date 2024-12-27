@@ -12,6 +12,6 @@
 **2.1** [Создать электронный глоссарий по теме исследования.](https://github.com/SArtemS/Practice-2024--1-semester--NIR-/blob/main/%D0%A9%D0%B5%D1%80%D0%B1%D0%B8%D0%BD%D0%B8%D0%BD%20%D0%90.%20%D0%92.%2C%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202.1.%20%D0%92%D0%A1%D0%A0.pdf)
 
 ## Отчёт и задание на практику
-[**Отчёт по практике**]()
+[**Отчёт по практике**](https://github.com/SArtemS/Practice-2024--1-semester--NIR-/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82.pdf)
 
-[**Задание на практику**]()
+[**Задание на практику**](https://github.com/SArtemS/Practice-2024--1-semester--NIR-/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
